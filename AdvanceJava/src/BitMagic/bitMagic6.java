@@ -6,6 +6,7 @@ public class bitMagic6 {
         int res1=0;
         int res2=0;
 
+
         for(int i=0;i<n;i++){
             xor=xor^array[i];
 
