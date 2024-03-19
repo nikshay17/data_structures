@@ -5,6 +5,8 @@ BitMagic:
       Problem4:To find the only non repeating number in the array
       Problem5:To find the powerset of a string
       Problem6:To find the two non repeating numbers in the array
+      Problem7:Bleak Number:if x+setCount(x)!=n
+      
       
       
       
