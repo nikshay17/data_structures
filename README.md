@@ -8,6 +8,8 @@ BitMagic:
       Problem7:Bleak Number:if x+setCount(x)!=n
       Problem8:To find the missing number from an array.
       Problem9:GeeksForGeeks que Problem5
+      Problem10:Flipbits To apply flip operation on a subarray exactly once so that maximum number of setbits obtained
+      
       
       
       
